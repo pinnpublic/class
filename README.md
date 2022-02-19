@@ -1,6 +1,6 @@
 # 2022.03.03
 
-<<<<<<< HEAD
+
 ## Bookmark
 - Oracle [link](http://oracle.com)
 - Eclipse [link](http://eclipse.org)
