@@ -18,7 +18,7 @@ Version 11 API Specification
 - **OpenJDK 11** > *OpenJDK Archive* > *11.0.2 (build 11.0.2+9) Windows	64-bit*
    - [go to link](https://jdk.java.net/11/)
 
-### 개발 도구(편집기)
+### 편집기
 - **Eclipse IDE 2021-03 R** > *Eclipse IDE for Enterprise Java and Web Developers* > *Windows x86_64*
    - [go to link](https://www.eclipse.org/downloads/packages/release/2021-03/r)
 - **Visual Studio Code** > *Windows* > *System Installer* > *64bit*
