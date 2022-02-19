@@ -2,7 +2,7 @@
 
 
 ## 프로그램 설치
-> Windows 운영체제를 기준으로 합니다.(MacOS, Linux 제외)
+> Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
 
 ### 개발 도구(실행 환경)
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
