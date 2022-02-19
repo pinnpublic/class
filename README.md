@@ -1,15 +1,15 @@
 # 2022.03.03
 
-
-## 프로그램 설치
-> Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
-
-### 문서(Documentation)
+## 문서, Documentation
+> 개발에 필요한 공식 문서입니다.
 - Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification
    - [go to link](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - OpenJDK 11.0.11 Documentation
    - [go to link](https://devdocs.io/openjdk~11/)
+
+## 프로그램 설치
+> Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
 
 ### 유틸리티
 - 반디집
