@@ -4,6 +4,13 @@
 ## 프로그램 설치
 > Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
 
+### 문서(Documentation)
+- Java® Platform, Standard Edition & Java Development Kit
+Version 11 API Specification
+   - [go to link](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+- OpenJDK 11.0.11 Documentation
+   - [go to link](https://devdocs.io/openjdk~11/)
+
 ### 개발 도구(실행 환경)
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
    - 다운로드하기 위해서 오라클 계정이 필요합니다.
@@ -17,3 +24,10 @@
 - **Visual Studio Code** > *Windows* > *System Installer* > *64bit*
    - [go to link](https://code.visualstudio.com/download)
 
+### 데이터베이스
+- **Oracle Database Express Edition (XE) Release 11.2.0.2.0 (11gR2)** > *Oracle Database 11gR2 Express Edition for Windows x64*
+   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - [go to link](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html)
+- **SQL Developer 21.4.2** > *Windows 64-bit with JDK 8 included*
+   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - [go to link](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
