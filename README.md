@@ -7,6 +7,8 @@ Version 11 API Specification
    - [go to link](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
 - OpenJDK 11.0.11 Documentation
    - [go to link](https://devdocs.io/openjdk~11/)
+- Oracle Database Online Documentation 11g Release 2 (11.2)
+   - [go to link](https://docs.oracle.com/cd/E11882_01/index.htm)
 
 ## 프로그램 설치
 > Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
