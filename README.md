@@ -9,6 +9,48 @@ Version 11 API Specification
    - [go to link](https://devdocs.io/openjdk~11/)
 - Oracle Database Online Documentation 11g Release 2 (11.2)
    - [go to link](https://docs.oracle.com/cd/E11882_01/index.htm)
+- Java JDBC API
+   - [go to link](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+- W3C HTML5 Reference
+   - [go to link](https://dev.w3.org/html5/html-author/)
+- MDN Web Doc HTML: HyperText Markup Language
+   - [go to link](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- W3Schools HTML Element Reference
+   - [go to link](https://www.w3schools.com/TAgs/default.asp)
+- W3C CSS3 Reference
+   - [go to link](https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/)
+- MDN CSS: Cascading Style Sheets
+   - [go to link](https://developer.mozilla.org/ko/docs/Web/CSS)
+- Dev Docs CSS reference
+   - [go to link](https://devdocs.io/css/)
+- W3Schools CSS Reference
+   - [go to link](https://www.w3schools.com/cssref/)
+- MDN JavaScript
+   - [go to link](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+- Dev Docs JavaScript reference
+   - [go to link](https://devdocs.io/javascript/)
+- W3Schools JavaScript and HTML DOM Reference
+   - [go to link](https://www.w3schools.com/jsref/default.asp)
+- jQuery API
+   - [go to link](https://api.jquery.com/)
+- W3Schools jQuery Reference
+   - [go to link](https://www.w3schools.com/jquery/jquery_ref_overview.asp)
+- Bootstrap
+   - [go to link](https://getbootstrap.com/docs/versions/)
+- Servlet {servlet.spec.version} API - Apache Tomcat 8.5.75
+   - [go to link](https://tomcat.apache.org/tomcat-8.5-doc/servletapi/index.html)
+- JSP 2.3 API - Apache Tomcat 8.5.75
+   - [go to link](https://tomcat.apache.org/tomcat-8.5-doc/jspapi/index.html)
+- Spring 5 Framework Documentation
+   - [go to link](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- Spring 4 Framework Reference Documentation
+   - [go to link](https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/)
+- Spring 3 Framework Reference Documentation
+   - [go to link](https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/index.html)
+- Spring Boot Reference Documentation
+   - [go to link](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- mybatis
+   - [go to link](https://mybatis.org/mybatis-3/)
 
 ## 프로그램 설치
 > Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
