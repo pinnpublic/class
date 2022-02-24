@@ -77,7 +77,7 @@ Version 11 API Specification
 - **Fira Code**
    - [go to link](https://github.com/tonsky/FiraCode)
 
-### 개발 도구(실행 환경)
+### 개발도구/실행환경
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
    - 다운로드하기 위해서 오라클 계정이 필요합니다.
    - [go to link](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
