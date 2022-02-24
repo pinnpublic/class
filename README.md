@@ -1,3 +1,5 @@
+# 2022.03.03
+
 ## 문서, Documentation
 > 개발에 필요한 공식(비공식) 문서입니다.
 - Java® Platform, Standard Edition & Java Development Kit
@@ -50,7 +52,7 @@ Version 11 API Specification
 - mybatis
    - [go to link](https://mybatis.org/mybatis-3/)
 
-## 프로그램 설치
+## 프로그램
 > Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
 
 ### 유틸리티
