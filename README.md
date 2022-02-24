@@ -1,5 +1,3 @@
-# 2022.03.03
-
 ## 문서, Documentation
 > 개발에 필요한 공식(비공식) 문서입니다.
 - Java® Platform, Standard Edition & Java Development Kit
