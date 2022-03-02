@@ -49,7 +49,7 @@ Version 11 API Specification
    - [go to link](https://docs.spring.io/spring-framework/docs/3.0.x/spring-framework-reference/html/index.html)
 - Spring Boot Reference Documentation
    - [go to link](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-- mybatis
+- MyBatis
    - [go to link](https://mybatis.org/mybatis-3/)
 
 ## 프로그램
