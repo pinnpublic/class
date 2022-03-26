@@ -114,3 +114,15 @@ Version 11 API Specification
 - **eXERD** > *eXERD 3.X*
    - [go to link](https://ko.exerd.com/down.jsp)
 
+
+
+```flow
+st=>start: Start
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+e=>end
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
