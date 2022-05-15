@@ -114,3 +114,6 @@ Version 11 API Specification
 - **eXERD** > *eXERD 3.X*
    - [go to link](https://ko.exerd.com/down.jsp)
 
+### 참고
+- **Statcounter**
+-  - [go to link](https://gs.statcounter.com/)
