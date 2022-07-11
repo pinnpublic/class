@@ -91,8 +91,8 @@ Version 11 API Specification
    - [go to link](https://www.eclipse.org/downloads/packages/release/2021-03/r)
 - **Visual Studio Code** > *Windows* > *System Installer* > *64bit*
    - [go to link](https://code.visualstudio.com/download)
- - **Spring Tools 4** > Spring Tools 4 for Eclipse
-   - [go to link](https://spring.io/tools)
+ - **Spring Tools 4** > *Spring Tools 4.8.1 (Changelog)* > *spring-tool-suite-4-4.8.1.RELEASE-e4.17.0-win32.win32.x86_64.zip*
+   - [go to link](https://github.com/spring-projects/sts4/wiki/Previous-Versions)
 
 ### 데이터베이스
 - **Oracle Database Express Edition (XE) Release 11.2.0.2.0 (11gR2)** > *Oracle Database 11gR2 Express Edition for Windows x64*
