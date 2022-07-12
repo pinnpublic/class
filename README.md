@@ -91,7 +91,7 @@ Version 11 API Specification
    - [go to link](https://www.eclipse.org/downloads/packages/release/2021-03/r)
 - **Visual Studio Code** > *Windows* > *System Installer* > *64bit*
    - [go to link](https://code.visualstudio.com/download)
-- **Spring Tools 3** > *Spring Tool Suite 3.9.18)* > *spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip*
+- **Spring Tools 3** > *Spring Tool Suite 3.9.18)* > *spring-tool-suite-3.9.18.RELEASE-e4.19.0-win32-x86_64.zip*
    - [go to link](https://github.com/spring-projects/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
 - **Spring Tools 4** > *Spring Tools 4.8.1 (Changelog)* > *spring-tool-suite-4-4.8.1.RELEASE-e4.17.0-win32.win32.x86_64.zip*
    - [go to link](https://github.com/spring-projects/sts4/wiki/Previous-Versions)
