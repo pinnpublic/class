@@ -1,4 +1,4 @@
-# 2022.03.03
+# 2022.08.18
 
 ## 문서, Documentation
 > 개발에 필요한 공식(비공식) 문서입니다.
@@ -51,9 +51,6 @@ Version 11 API Specification
    - [go to link](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 - MyBatis
    - [go to link](https://mybatis.org/mybatis-3/)
-
-## 프로그램
-> Windows 운영체제를 기준으로 합니다. (MacOS, Linux 제외)
 
 ### 유틸리티
 - **반디집**
