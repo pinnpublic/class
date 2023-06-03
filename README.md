@@ -121,4 +121,4 @@ Version 11 API Specification
    - [go to link](https://gs.statcounter.com/)
 
 ### Example CDN
-- [Example CDN](https://github.com/pinnpublic/cdn)
+- [go to link](https://github.com/pinnpublic/cdn)
