@@ -120,5 +120,6 @@ Version 11 API Specification
 - **Statcounter**
    - [go to link](https://gs.statcounter.com/)
 
-### Example CDN
-- [go to link](https://github.com/pinnpublic/cdn)
+### CSS Framework
+- **Example CDN**
+   - [go to link](https://github.com/pinnpublic/cdn)
