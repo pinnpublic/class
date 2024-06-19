@@ -187,11 +187,11 @@ Version 11 API Specification
 	- jar.exe
 
 ### 설치 후 추가 설정(선택 > 되도록 권장)
-	- 환경 변수 등록 > Path
-	- 새 시스템 변수
-		- 변수 이름: JAVA_HOME
-		- 변수 값: C:\class\dev\jdk-11
-	- Path > 새로 만들기 > %JAVA_HOME%\bin
+- 환경 변수 등록 > Path
+ 새 시스템 변수
+	- 변수 이름: JAVA_HOME
+	- 변수 값: C:\class\dev\jdk-11
+- Path > 새로 만들기 > %JAVA_HOME%\bin
 
 
 > GUI(Graphic User Interface)
