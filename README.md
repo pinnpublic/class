@@ -74,13 +74,12 @@ Version 21 API Specification
 
 ### 유틸리티
 - **반디집**
+   - MS Store(권장)
    - [go to link](https://kr.bandisoft.com/bandizip/)
 - **PowerToys**
    - [go to link](https://github.com/microsoft/PowerToys/releases/tag/v0.55.2)   
 - **Cmder**
-   - [go to link](https://cmder.net/)
-- **TeamViewer**
-   - [go to link](https://www.teamviewer.com/ko/)   
+   - [go to link](https://cmder.app/)
 
 ### 폰트
 - **JetBrainsMono**
