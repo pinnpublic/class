@@ -67,7 +67,7 @@ Version 11 API Specification
    - [go to link](https://www.teamviewer.com/ko/)   
 
 ### 폰트
-- **JetBrainsMono** >
+- **JetBrainsMono**
    - [go to link](https://github.com/Jhyub/JetBrainsMonoHangul)
 - **나눔고딕코딩** > *Ver 2.5 (2016.10.24 배포)*
    - [go to link](https://github.com/naver/nanumfont)
