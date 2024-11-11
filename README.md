@@ -5,8 +5,18 @@
 - Java® Platform, Standard Edition & Java Development Kit
 Version 11 API Specification
    - [go to link](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-- OpenJDK 11.0.11 Documentation
+- Java® Platform, Standard Edition & Java Development Kit
+Version 17 API Specification
+   - [go to link](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+- Java® Platform, Standard Edition & Java Development Kit
+Version 21 API Specification
+   - [go to link](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+- OpenJDK 11 Documentation
    - [go to link](https://devdocs.io/openjdk~11/)
+- OpenJDK 17 Documentation
+   - [go to link](https://devdocs.io/openjdk~17/)
+- OpenJDK 21 Documentation
+   - [go to link](https://devdocs.io/openjdk~21/)
 - Oracle Database Online Documentation 11g Release 2 (11.2)
    - [go to link](https://docs.oracle.com/cd/E11882_01/index.htm)
 - Java JDBC API
@@ -37,12 +47,18 @@ Version 11 API Specification
    - [go to link](https://www.w3schools.com/jquery/jquery_ref_overview.asp)
 - Bootstrap
    - [go to link](https://getbootstrap.com/docs/versions/)
-- Servlet {servlet.spec.version} API - Apache Tomcat 8.5.75
+- Servlet 3.1 API - Apache Tomcat® 8.5.XXX
    - [go to link](https://tomcat.apache.org/tomcat-8.5-doc/servletapi/index.html)
-- JSP 2.3 API - Apache Tomcat 8.5.75
+- Servlet 4.0 API - Apache Tomcat® 9.0.XXX
+   - [go to link](https://tomcat.apache.org/tomcat-9.0-doc/servletapi/index.html)
+- JSP 2.3 API - Apache Tomcat® 8.5.XXX
    - [go to link](https://tomcat.apache.org/tomcat-8.5-doc/jspapi/index.html)
-- Spring 5 Framework Documentation
+- JSP 2.3 API - Apache Tomcat® 9.0.XXX
+   - [go to link](https://tomcat.apache.org/tomcat-9.0-doc/jspapi/index.html)
+- Spring 6 Framework Documentation
    - [go to link](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+- Spring 5 Framework Documentation
+   - [go to link](https://docs.spring.io/spring-framework/docs/5.3.x/reference/html/) 
 - Spring 4 Framework Reference Documentation
    - [go to link](https://docs.spring.io/spring-framework/docs/4.0.x/spring-framework-reference/html/)
 - Spring 3 Framework Reference Documentation
@@ -84,27 +100,41 @@ Version 11 API Specification
 - **Oracle JDK 11** > *Windows x64 Installer* > *jdk-11.0.13_windows-x64_bin.exe*
    - 다운로드하기 위해서 오라클 계정이 필요합니다.
    - [go to link](https://www.oracle.com/kr/java/technologies/javase/jdk11-archive-downloads.html)
+- **Oracle JDK 17** > *Windows x64 Installer* > *jdk-17.0.12_windows-x64_bin.exe*
+   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - [go to link](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- **Oracle JDK 21** > *Windows x64 Installer* > *jdk-21_windows-x64_bin.exe*
+   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - [go to link](https://www.oracle.com/kr/java/technologies/downloads/#java21)
 - **OpenJDK 11** > *OpenJDK Archive* > *11.0.2 (build 11.0.2+9) Windows	64-bit*
-   - [go to link](https://jdk.java.net/11/)
-- **Node.js** > *16.14.0 LTS*
+   - [go to link](https://jdk.java.net/archive/)
+- **OpenJDK 17** > *OpenJDK Archive* > *17.0.2 (build 17.0.2+8) Windows	64-bit*
+   - [go to link](https://jdk.java.net/archive/)
+- **OpenJDK 21** > *OpenJDK Archive* > *21.0.2 (build 21.0.2+13) Windows	64-bit*
+   - [go to link](https://jdk.java.net/archive/)
+- **Node.js**
    - [go to link](https://nodejs.org/ko/)
 
 ### 편집기
+- **Eclipse IDE 2024-09 R** > *Eclipse IDE for Enterprise Java and Web Developers* > *Windows x86_64*
+   - [go to link](https://www.eclipse.org/downloads/packages/)
 - **Eclipse IDE 2021-03 R** > *Eclipse IDE for Enterprise Java and Web Developers* > *Windows x86_64*
    - [go to link](https://www.eclipse.org/downloads/packages/release/2021-03/r)
 - **Visual Studio Code** > *Windows* > *System Installer* > *64bit*
    - [go to link](https://code.visualstudio.com/download)
-- **Spring Tools 3** > *Spring Tool Suite 3.9.18* > *spring-tool-suite-3.9.18.RELEASE-e4.19.0-win32-x86_64.zip*
+- **Spring Tools 3** > *Spring Tool Suite 3.9.18* > *full distribution on Eclipse 4.21* > *spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip*
    - [go to link](https://github.com/spring-projects/toolsuite-distribution/wiki/Spring-Tool-Suite-3)
-- **Spring Tools 4** > *Spring Tools 4.10.0 (Changelog)* > *spring-tool-suite-4-4.10.0.RELEASE-e4.19.0-win32.win32.x86_64.zip*
-   - Thymeleaf Plugin > tested by Spring Tools 4.8.1
+- **Spring Tools 4** > *Spring Tools 4.26.0* > *full distribution on Eclipse 2024-09 (4.33)* > *spring-tool-suite-4-4.26.0.RELEASE-e4.33.0-win32.win32.x86_64.zip*
    - [go to link](https://github.com/spring-projects/sts4/wiki/Previous-Versions)
 
 ### 데이터베이스
+- **Oracle Database 21c Express Edition** > *Oracle Database 21c Express Edition for Windows x64*
+   - 다운로드하기 위해서 오라클 계정이 필요합니다.
+   - [go to link](https://www.oracle.com/kr/database/technologies/xe-downloads.html)
 - **Oracle Database Express Edition (XE) Release 11.2.0.2.0 (11gR2)** > *Oracle Database 11gR2 Express Edition for Windows x64*
    - 다운로드하기 위해서 오라클 계정이 필요합니다.
    - [go to link](https://www.oracle.com/database/technologies/xe-prior-release-downloads.html)
-- **SQL Developer 21.4.2** > *Windows 64-bit with JDK 8 included*
+- **SQL Developer 24.3** > *Windows 64-bit with JDK 17 included*
    - 다운로드하기 위해서 오라클 계정이 필요합니다.
    - [go to link](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
 
