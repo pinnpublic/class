@@ -154,6 +154,8 @@ Version 21 API Specification
 ### 참고
 - **Statcounter**
    - [go to link](https://gs.statcounter.com/)
+- **2024 Developer Survey**
+   - [go to link](https://survey.stackoverflow.co/2024/technology)
 
 ### CSS Framework
 - **Example CDN**
