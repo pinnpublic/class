@@ -158,6 +158,8 @@ Version 21 API Specification
    - [go to link](https://survey.stackoverflow.co/2024/technology)
 - **Programmers Dev Survey 2023**
    - [go to link](https://programmers.co.kr/pages/2023-dev-survey)
+- **JetBrains 개발자 에코시스템**
+   - [go to link](https://www.jetbrains.com/ko-kr/lp/devecosystem-2023/java/)
 
 ### CSS Framework
 - **Example CDN**
