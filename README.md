@@ -156,6 +156,8 @@ Version 21 API Specification
    - [go to link](https://gs.statcounter.com/)
 - **2024 Developer Survey**
    - [go to link](https://survey.stackoverflow.co/2024/technology)
+- **Programmers Dev Survey 2023**
+   - [go to link](https://programmers.co.kr/pages/2023-dev-survey)
 
 ### CSS Framework
 - **Example CDN**
