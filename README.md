@@ -163,6 +163,6 @@ Version 21 API Specification
 
 ### CSS Framework
 - **Example CDN**
-   - [go to link]([https://github.com/pinnpublic/cdn](https://github.com/pinnpublic/style))
+   - [go to link](https://github.com/pinnpublic/style)
 
 
